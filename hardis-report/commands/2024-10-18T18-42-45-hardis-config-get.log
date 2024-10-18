@@ -1,0 +1,14 @@
+--level user --json--level project --json--level project --json[sfdx-hardis][command] git config --local core.quotepath false
+[sfdx-hardis][command] git config --local core.quotepath false
+[sfdx-hardis] error: could not lock config file .git/config: File exists
+
+[sfdx-hardis] error: could not lock config file .git/config: File exists
+
+[sfdx-hardis] Defined "false" as git core.quotepath
+[sfdx-hardis] Updated config file config/user/.sfdx-hardis.anthonybarrow.yml with values: 
+{
+  "installedApps": [
+    "git"
+  ]
+}
+[sfdx-hardis] {}
